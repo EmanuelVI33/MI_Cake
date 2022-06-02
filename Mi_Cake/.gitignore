@@ -1,0 +1,102 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# ignorar archivos de registro y bases de datos 
+*.log 
+*.sql 
+*.sqlite
+# ignorar archivos compilados 
+*.com 
+*. clase
+ *.dll 
+*.exe 
+*.o 
+*.so
+# ignorar archivos empaquetados 
+*.7z 
+*.dmg 
+*.gz 
+*.iso 
+*.jar 
+*.rar 
+*.tar 
+*.zip
+# ignorar los archivos generados por el sistema operativo 
+ehthumbs.db 
+Thumbs.db 
+.DS_Store 
+.DS_Store? 
+._* 
+.Spotlight-V100 
+.Papeleras
+# ignorar los archivos del editor 
+*.sublime-project 
+*.sublime-workspace 
+*.komodoproject 
+_ide_helper.php 
+/.idea 
+/.vscode 
+# Archivos de proyecto de Eclipse 
+.buildpath 
+.project 
+.settings/
+# Ignorar caché 
+.cache/
+# Ignorar los archivos creados por el usuario :) 
+*.bak 
+*.orig
+# Ignorar archivos del sistema 
+.bash_history 
+LICENSE_AFL.txt 
+LICENSE.html 
+LICENSE.txt 
+LICENSE_EE* 
+RELEASE_NOTES.txt 
+.ssh/ 
+error_log 
+.htpasswds 
+/.htaccess 
+php.ini.sample 
+.modgit/ 
+_vti_bin/ 
+_vti_cnf/ 
+_vti_inf.html 
+_vti_log/ 
+_vti_pvt/ 
+t 
+tmp/ 
+php.ini 
+_old/ 
+.htpasswds/ 
+.htpasswd 
+.viminfo 
+.profile 
+.bashrc 
+.bash_logout 
+.bash_history 
+.modgit/ 
+.modman/ 
+pkginfo 
+nohup.out 
+Homestead.yaml 
+Homestead.json 
+/.vagrant
+.phpunit.resultado.cache
+#Archivos específicos de Laravel 
+/vendor 
+.env 
+/public/.htaccess 
+/storage 
+storage/*.key
